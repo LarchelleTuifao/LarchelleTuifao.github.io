@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: r_website_docs
+  output-dir: docs
 
 website:
   title: "LarchelleTuifao.github.io"
