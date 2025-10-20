@@ -6,7 +6,7 @@ This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-I am awesomeness :) yessahh blessaahhh
+I am awesomeness :) yessahh blessaah
 
 ```{r}
 1 + 1
